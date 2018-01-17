@@ -52,7 +52,7 @@
       }
     } else {
       var html = [
-        
+
       ].join('');
 
       var box = $(html);
